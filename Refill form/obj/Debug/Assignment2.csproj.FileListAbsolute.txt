@@ -1,0 +1,9 @@
+F:\3331_ass\Assignment2\bin\Debug\Assignment2.exe.config
+F:\3331_ass\Assignment2\bin\Debug\Assignment2.exe
+F:\3331_ass\Assignment2\bin\Debug\Assignment2.pdb
+F:\3331_ass\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+F:\3331_ass\Assignment2\obj\Debug\Assignment2.Form1.resources
+F:\3331_ass\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+F:\3331_ass\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+F:\3331_ass\Assignment2\obj\Debug\Assignment2.exe
+F:\3331_ass\Assignment2\obj\Debug\Assignment2.pdb
