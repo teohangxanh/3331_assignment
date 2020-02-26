@@ -1,0 +1,9 @@
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\bin\Debug\Assignment2.exe.config
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\bin\Debug\Assignment2.exe
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\bin\Debug\Assignment2.pdb
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\obj\Debug\Prescription form.csprojAssemblyReference.cache
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\obj\Debug\Assignment2.Form1.resources
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\obj\Debug\Prescription form.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\obj\Debug\Assignment2.exe
+C:\Users\Teo\Documents\GitHub\3331_assignment\Refill form\obj\Debug\Assignment2.pdb
