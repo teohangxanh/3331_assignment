@@ -1,0 +1,8 @@
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\bin\Debug\JukeBox.dll
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\bin\Debug\JukeBox.pdb
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\obj\Debug\JukeBox.csprojAssemblyReference.cache
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\obj\Debug\JukeBox.Properties.Resources.resources
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\obj\Debug\JukeBox.UserControl1.resources
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\obj\Debug\JukeBox.csproj.GenerateResource.cache
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\obj\Debug\JukeBox.dll
+C:\Users\Teo\Documents\GitHub\3331_assignment\JukeBox\obj\Debug\JukeBox.pdb
