@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Messaging" />
     <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
@@ -66,6 +67,126 @@
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001-next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\002-music.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003-stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\004-settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\005-loop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\006-loop-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\007-controller.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\008-maximize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\009-headphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\010-unlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\011-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\012-upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\013-play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\014-like.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\015-refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\016-share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\017-bars-graphics.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\018-minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\019-reduce-volume.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\020-menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\021-pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\022-power-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\023-recording.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\024-low-volume.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\025-shuffle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\026-recording-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\027-information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\028-folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\029-previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\030-mute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\031-skip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\032-forwards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\033-forwards-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\034-volume-adjustment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\035-volume-up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\036-rate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\037-question-mark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\038-padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\039-skip-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\040-backward.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

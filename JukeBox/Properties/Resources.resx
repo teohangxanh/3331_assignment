@@ -117,4 +117,125 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="001-next" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\001-next.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="002-music" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\002-music.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="003-stop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\003-stop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="004-settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\004-settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="005-loop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\005-loop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="006-loop-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\006-loop-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="007-controller" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\007-controller.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="008-maximize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\008-maximize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="009-headphone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\009-headphone.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="010-unlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\010-unlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="011-back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\011-back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="012-upload" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\012-upload.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="013-play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\013-play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="014-like" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\014-like.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="015-refresh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\015-refresh.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="016-share" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\016-share.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="017-bars-graphics" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\017-bars-graphics.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="018-minimize" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\018-minimize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="019-reduce-volume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\019-reduce-volume.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="020-menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\020-menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="021-pause" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\021-pause.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="022-power-button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\022-power-button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="023-recording" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\023-recording.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="024-low-volume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\024-low-volume.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="025-shuffle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\025-shuffle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="026-recording-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\026-recording-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="027-information" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\027-information.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="028-folder" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\028-folder.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="029-previous" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\029-previous.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="030-mute" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\030-mute.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="031-skip" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\031-skip.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="032-forwards" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\032-forwards.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="033-forwards-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\033-forwards-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="034-volume-adjustment" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\034-volume-adjustment.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="035-volume-up" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\035-volume-up.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="036-rate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\036-rate.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="037-question-mark" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\037-question-mark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="038-padlock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\038-padlock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="039-skip-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\039-skip-1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="040-backward" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\040-backward.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
