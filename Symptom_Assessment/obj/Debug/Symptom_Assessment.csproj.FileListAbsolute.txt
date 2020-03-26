@@ -7,3 +7,4 @@ D:\GitHub\3331_assignment\Symptom_Assessment\obj\Debug\Symptom_Assessment.Proper
 D:\GitHub\3331_assignment\Symptom_Assessment\obj\Debug\Symptom_Assessment.csproj.GenerateResource.cache
 D:\GitHub\3331_assignment\Symptom_Assessment\obj\Debug\Symptom_Assessment.exe
 D:\GitHub\3331_assignment\Symptom_Assessment\obj\Debug\Symptom_Assessment.pdb
+D:\GitHub\3331_assignment\Symptom_Assessment\obj\Debug\Symptom_Assessment.csproj.CoreCompileInputs.cache
