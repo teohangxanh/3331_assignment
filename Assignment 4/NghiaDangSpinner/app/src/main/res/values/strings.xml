@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NghiaDangSpinner</string>
+    <string-array name="cars">
+        <item>Bugatti La Voiture Noire</item>
+        <item>Royce Sweptail</item>
+        <item>Bugatti Centodieci</item>
+        <item>Mercedes-Benz Maybach Exelero</item>
+        <item>Koenigsegg CCXR Trevita</item>
+        <item>Lamborghini Veneno</item>
+        <item>Lamborghini Sian</item>
+        <item>W Motors Lykan Hypersport</item>
+        <item>Limited Edition Bugatti Veyron by Mansory Vivere</item>
+        <item>Ferrari Pininfarina Sergio</item>
+    </string-array>
+</resources>

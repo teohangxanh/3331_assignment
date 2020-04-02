@@ -23,6 +23,4 @@ public class GetName extends Activity implements android.view.View.OnClickListen
         button = this.findViewById(R.id.nameSubmit);
         button.setOnClickListener(this);
     }
-
-
 }
