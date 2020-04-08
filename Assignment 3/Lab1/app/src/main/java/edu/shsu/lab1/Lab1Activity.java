@@ -7,8 +7,10 @@ import androidx.appcompat.app.AppCompatActivity;
 public class Lab1Activity extends AppCompatActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Bundle myInput = this.getIntent().getExtras();
     }
 }
