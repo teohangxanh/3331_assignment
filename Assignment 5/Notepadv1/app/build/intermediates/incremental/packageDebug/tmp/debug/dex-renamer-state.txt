@@ -1,0 +1,4 @@
+#Wed Apr 15 09:19:07 GMT-06:00 2020
+base.0=C\:\\Users\\Teo\\Documents\\GitHub\\Notepadv1\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
